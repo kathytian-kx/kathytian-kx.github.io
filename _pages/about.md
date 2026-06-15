@@ -40,6 +40,6 @@ Driven by a deep fascination with the intersection of neuroscience and artificia
 
 ---
 
-## Selected Publications / 学术论文
+## Publications / 学术论文
 
 {% bibliography %}
