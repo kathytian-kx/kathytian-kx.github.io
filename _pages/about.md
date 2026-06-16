@@ -42,7 +42,7 @@ Driven by a deep fascination with the intersection of neuroscience and artificia
 
 ## Publications / 学术论文
 
-{% bibliography %}
+{% bibliography -q @*(!patent) %}
 ---
 
 ## Patents / 发明专利
